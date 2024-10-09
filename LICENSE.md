@@ -1,6 +1,6 @@
 You are free to use, alter and reproduce this open educational resource (OER) under the terms of the [CC-BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/legalcode), unless explicitly stated otherwise for specific parts of the content. 
 
-The tutorial can be referenced as follows: “OER-DCAT”, OER4SDI project / University Münster,[ CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode.en).
+The tutorial can be referenced as follows: “OER-Fernerkundung”, OER4SDI project / University of Applied Science Bochum,[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode.en).
 
 All logos used are generally excluded.
 
